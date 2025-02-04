@@ -143,8 +143,8 @@ hr {
   justify-content: center;
   display: flex;
   width: 100vw;
-  height: 600px;
-  background-color: #FCFCFC;
+  height: 580px;
+  background-color: #fdfdfd;
 }
 
 .aboutme-text-container{
@@ -217,13 +217,13 @@ hr {
 }
 
 .experiences-card{
-  padding: 0 30px;
   justify-content: center;
   align-items: center;
   display: flex;
 }
 
 .h2-experiences{
+  padding: 2px 0;
   font-size: 40px;
   background: linear-gradient(to right, #2CA2B4, #5598DE, #7F87FF, #F65AAD, #EC3D43);
   -webkit-background-clip: text;
@@ -233,11 +233,13 @@ hr {
 }
 
 .p-experiences{
+  padding: 2px 0;
   font-size: 25px;
   font-weight: 500;
 }
 
 .card-exp{
+  margin: 0 10px;
   border: 1px solid #0071E3;
   border-radius: 20px;
   justify-content: center;
@@ -420,12 +422,11 @@ hr {
   }
   
   .experiences-card{
-    padding: 0 30px;
     justify-content: center;
     align-items: center;
     display: flex;
   }
-  
+
   .h2-experiences{
     font-size: 30px;
     background: linear-gradient(to right, #2CA2B4, #5598DE, #7F87FF, #F65AAD, #EC3D43);
@@ -441,6 +442,7 @@ hr {
   }
   
   .card-exp{
+    margin: 0 10px;
     border: 1px solid #0071E3;
     border-radius: 20px;
     justify-content: center;
@@ -594,7 +596,7 @@ hr {
     flex-direction: column;
     display: flex;
     background-color: #FBFBFD;
-    height: 350px;
+    height: 300px;
     width: 100vw;
   }
   
@@ -631,7 +633,7 @@ hr {
     justify-content: center;
     flex-direction: column;
     display: flex;
-    height: 180px;
+    height: 160px;
     width: 200px;
     padding: 20px;
     background-color: #FCFCFC;
