@@ -207,7 +207,7 @@ hr {
   flex-direction: column;
   display: flex;
   background-color: #FBFBFD;
-  height: 500px;
+  height: 550px;
   width: 100vw;
 }
 
@@ -252,14 +252,14 @@ hr {
 #h2-card-exp-codenext{
   margin-bottom: 20px;
   text-align: left;
-  font-size: 40px;
+  font-size: 35px;
   color: #5598DE;
 }
 
 #h2-card-exp-yourclub{
   margin-bottom: 20px;
   text-align: left;
-  font-size: 40px;
+  font-size: 35px;
   color: #F65AAD;
 }
 
